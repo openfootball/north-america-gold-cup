@@ -1,0 +1,4 @@
+
+america.copa,          Copa América
+america.gold,          Gold Cup / Copa de Oro
+

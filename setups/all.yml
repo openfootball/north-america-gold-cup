@@ -1,0 +1,30 @@
+####
+# all
+
+seasons:
+- america!/setups/data/seasons
+
+
+leagues:
+- amercia!/leagues
+
+#########
+# teams
+
+teams:
+- america!/teams_s
+- america!/teams_n
+
+
+############
+# fixtures
+
+2011:
+- america!/2011/copa
+- america!/2011/gold
+
+2013:
+- america!/2013/gold
+
+2015:
+- america!/2015/copa

@@ -1,4 +1,4 @@
-# America (Gold Cup, Copa America)
+# America (Gold Cup, Copa América)
 
 ## What's `football.db`?
 
@@ -9,7 +9,8 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football data for America for national teams. Events include:
+Free open public domain football data for national teams in South America
+and North/Central America & Caribbean Islands. Events include:
 
 -  Gold Cup / Copa de Oro
 -  Copa América
@@ -29,13 +30,13 @@ bra, Brazil,      BRA, br
 ##################################
 # Copa América 2011 Argentina
 
-# -- Groups
+# Groups
 
 Group A  |  Argentina   Colombia   Bolivia    Costa Rica
 Group B  |  Brazil      Paraguay   Venezuela  Ecuador
 Group C  |  Uruguay     Chile      Peru       Mexico
 
-# -- Group A
+# Group A
 
 Matchday 1 / Group A
 
