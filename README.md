@@ -11,8 +11,8 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 Free open public domain football data for America for national teams. Events include:
 
--  Gold Cup
--  Copa America
+-  Gold Cup / Copa de Oro
+-  Copa América
 
 
 Example:
@@ -72,7 +72,47 @@ see the [`sportdb` command line tool project](https://github.com/geraldb/sport.d
 
 ## Links
 
-TBD
+### Gold Cup / Copa de Oro
+
+Official Site - [www.goldcup.org](http://www.goldcup.org) or [www.copaoro.org](http://www.copaoro.org)
+
+- every two years 
+- 12 teams, 25 matches
+    - North American zone   / 3 teams
+    - Central American zone / 5 teams
+    - Caribbean zone        / 4 teams
+
+
+Gold Cup / Copa de Oro 2013
+
+- United States, July 7-28, 2013
+- 12th edition
+
+Gold Cup / Copa de Oro 2011
+
+- United States, June 5-25, 2011
+
+
+#### Wikipedia
+
+- [2011_CONCACAF_Gold_Cup](http://en.wikipedia.org/wiki/2011_CONCACAF_Gold_Cup)
+- [2013_CONCACAF_Gold_Cup](http://en.wikipedia.org/wiki/2013_CONCACAF_Gold_Cup)
+
+
+### Copa América
+
+- 12 Teams
+    - South America (10 teams)
+    - Invitees (2 teams) e.g. Japan, Mexico, Costa Rica, etc.
+
+Copa América 2015
+
+- Chile, July 2015
+
+Copa América 2011
+
+- Argentina, July 1 to July 24, 2011
+
 
 
 ## Questions? Comments?
