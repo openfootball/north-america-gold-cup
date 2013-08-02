@@ -30,7 +30,7 @@ Matchday 4 / Group A
 Matchday 7 / Group A
 
 2013-07-14 15:30   Panama       0-0  Canada
-2013-07-14 28:00   Martinique   1-3  Mexico
+2013-07-14 18:00   Martinique   1-3  Mexico
 
 
 ###########
@@ -64,7 +64,7 @@ Matchday 3 / Group C
 Matchday 6 / Group C
 
 2013-07-13 15:30   United States  4-1  Cuba
-2013-07-13 28:00   Costa Rica     1-0  Belize
+2013-07-13 18:00   Costa Rica     1-0  Belize
 
 Matchday 9 / Group C
 
