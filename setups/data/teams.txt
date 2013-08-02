@@ -1,0 +1,6 @@
+
+####
+# non-american invitee teams
+
+jpn, Japan,        JPN, jp
+

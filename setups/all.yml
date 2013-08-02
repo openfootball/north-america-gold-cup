@@ -1,8 +1,9 @@
 ####
 # all
 
-seasons:
+data:
 - america!/setups/data/seasons
+- america!/setups/data/teams
 
 
 leagues:
