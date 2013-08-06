@@ -12,8 +12,14 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 Free open public domain football data for national teams in South America
 and North/Central America & Caribbean Islands. Events include:
 
--  Gold Cup / Copa de Oro
--  Copa América
+- CONMEBOL [^1] Copa América
+- CONCACAF [^2] Gold Cup / Copa de Oro
+
+<!-- check if footnotes work in github markdown ?? -->
+
+[^1]: CONMEBOL = South America
+[^2]: CONCACAF = North America, Central America & Caribbean
+
 
 
 Example:
@@ -73,7 +79,34 @@ see the [`sportdb` command line tool project](https://github.com/geraldb/sport.d
 
 ## Links
 
-### Gold Cup / Copa de Oro
+### CONMEBOL Copa América
+
+- 12 Teams
+    - South America (10 teams)
+    - Invitees (2 teams) e.g. Japan, Mexico, Costa Rica, etc.
+- 26 Matches
+- every four years (next in 2105 Chile and 2019 in Brazil)
+- nb: special copa in 2016 in the United States (centenario de conmebol)
+
+
+Copa América 2015 Chile
+
+- July 2015
+
+
+Copa América 2011 Argentina
+
+- July 1 to July 24, 2011
+
+
+#### Wikipedia
+
+- [2015_Copa_América](http://en.wikipedia.org/wiki/2015_Copa_América)
+- [2011_Copa_América](http://en.wikipedia.org/wiki/2011_Copa_América)
+
+
+
+### CONCACAF Gold Cup / Copa de Oro
 
 Official Site - [www.goldcup.org](http://www.goldcup.org) or [www.copaoro.org](http://www.copaoro.org)
 
@@ -97,33 +130,9 @@ Gold Cup / Copa de Oro 2011
 
 #### Wikipedia
 
-- [2011_CONCACAF_Gold_Cup](http://en.wikipedia.org/wiki/2011_CONCACAF_Gold_Cup)
 - [2013_CONCACAF_Gold_Cup](http://en.wikipedia.org/wiki/2013_CONCACAF_Gold_Cup)
+- [2011_CONCACAF_Gold_Cup](http://en.wikipedia.org/wiki/2011_CONCACAF_Gold_Cup)
 
-
-### Copa América
-
-- 12 Teams
-    - South America (10 teams)
-    - Invitees (2 teams) e.g. Japan, Mexico, Costa Rica, etc.
-- 26 Matches
-- every four years (next in 2105 Chile and 2019 in Brazil)
-- nb: special copa in 2016 in the United States (centenario de conmebol)
-
-
-Copa América 2015 Chile
-
-- July 2015
-
-
-Copa América 2011 Argentina
-
-- July 1 to July 24, 2011
-
-
-#### Wikipedia
-
-- [2015_Copa_América](http://en.wikipedia.org/wiki/2015_Copa_América)
 
 
 ## Questions? Comments?
