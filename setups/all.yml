@@ -1,31 +1,30 @@
-####
-# all
+###################
+# all fixtures
 
 data:
-- america!/setups/data/seasons
-- america!/setups/data/teams
+- america-cup!/setups/data/teams
 
 
 leagues:
-- amercia!/leagues
+- amercia-cup!/leagues
 
 #########
 # teams
 
 teams:
-- america!/teams_s
-- america!/teams_n
+- america-cup!/teams_s
+- america-cup!/teams_n
 
 
 ############
 # fixtures
 
 2011:
-- america!/2011/copa
-- america!/2011/gold
+- america-cup!/2011/copa
+- america-cup!/2011/gold
 
 2013:
-- america!/2013/gold
+- america-cup!/2013/gold
 
 2015:
-- america!/2015/copa
+- america-cup!/2015/copa

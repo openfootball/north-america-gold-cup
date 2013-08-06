@@ -60,11 +60,11 @@ Step 1:  Get a copy of the `world.db` fixtures
 
 Step 2:  Get a copy the `america` fixtures
 
-    $ git clone git://github.com/openfootball/america.git
+    $ git clone git://github.com/openfootball/america-cup.git
 
 Step 3:  Let's build the `football.db`
 
-    $ sportdb setup --include ./america --worldinclude ./world.db
+    $ sportdb setup --include ./america-cup --worldinclude ./world.db
 
 That's it. For more
 see the [`sportdb` command line tool project](https://github.com/geraldb/sport.db.ruby).
@@ -77,11 +77,12 @@ see the [`sportdb` command line tool project](https://github.com/geraldb/sport.d
 
 Official Site - [www.goldcup.org](http://www.goldcup.org) or [www.copaoro.org](http://www.copaoro.org)
 
-- every two years 
-- 12 teams, 25 matches
+- 12 teams
     - North American zone   / 3 teams
     - Central American zone / 5 teams
     - Caribbean zone        / 4 teams
+- 25 matches
+- every two years 
 
 
 Gold Cup / Copa de Oro 2013
@@ -105,15 +106,24 @@ Gold Cup / Copa de Oro 2011
 - 12 Teams
     - South America (10 teams)
     - Invitees (2 teams) e.g. Japan, Mexico, Costa Rica, etc.
+- 26 Matches
+- every four years (next in 2105 Chile and 2019 in Brazil)
+- nb: special copa in 2016 in the United States (centenario de conmebol)
 
-Copa América 2015
 
-- Chile, July 2015
+Copa América 2015 Chile
 
-Copa América 2011
+- July 2015
 
-- Argentina, July 1 to July 24, 2011
 
+Copa América 2011 Argentina
+
+- July 1 to July 24, 2011
+
+
+#### Wikipedia
+
+- [2015_Copa_América](http://en.wikipedia.org/wiki/2015_Copa_América)
 
 
 ## Questions? Comments?
