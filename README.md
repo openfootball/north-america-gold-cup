@@ -1,4 +1,4 @@
-# America (Gold Cup, Copa América)
+# America (Copa América, Gold Cup / Copa de Oro)
 
 ## What's `football.db`?
 
