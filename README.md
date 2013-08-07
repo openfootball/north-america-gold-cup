@@ -10,15 +10,15 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 ## Intro
 
 Free open public domain football data for national teams in South America
-and North/Central America & Caribbean Islands. Events include:
+and North America, Central America & Caribbean Islands. Events include:
 
-- CONMEBOL [^1] Copa América
-- CONCACAF [^2] Gold Cup / Copa de Oro
+- CONMEBOL¹ Copa América
+- CONCACAF² Gold Cup / Copa de Oro
 
-<!-- check if footnotes work in github markdown ?? -->
+<!-- use handmade footnotes -->
 
-[^1]: CONMEBOL = South America
-[^2]: CONCACAF = North America, Central America & Caribbean
+¹: CONMEBOL = South America;
+²: CONCACAF = North America, Central America & Caribbean
 
 
 
@@ -46,34 +46,19 @@ Group C  |  Uruguay     Chile      Peru       Mexico
 
 Matchday 1 / Group A
 
-2011-07-01 21:45   Argentina  -  Bolivia    1-1
+2011-07-01 21:45   Argentina  1-1  Bolivia    
 
 Matchday 2 / Group A
 
-2011-07-02 15:30  Colombia  -  Costa Rica    1-0
+2011-07-02 15:30  Colombia    1-0  Costa Rica    
 ...
 ~~~
 
 
 ## Build Your Own `football.db` Copy
 
-To build your own `football.db` copy from the plain text fixtures
-use the sportdb command line tool. Example:
-
-Step 1:  Get a copy of the `world.db` fixtures
-
-    $ git clone git://github.com/geraldb/world.db.git
-
-Step 2:  Get a copy the `america` fixtures
-
-    $ git clone git://github.com/openfootball/america-cup.git
-
-Step 3:  Let's build the `football.db`
-
-    $ sportdb setup --include ./america-cup --worldinclude ./world.db
-
-That's it. For more
-see the [`sportdb` command line tool project](https://github.com/geraldb/sport.db.ruby).
+Use the `sportdb` command line tool to build your own `football.db` copy
+from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
 
 
 
@@ -81,10 +66,10 @@ see the [`sportdb` command line tool project](https://github.com/geraldb/sport.d
 
 ### CONMEBOL Copa América
 
-- 12 Teams
+- 12 teams
     - South America (10 teams)
     - Invitees (2 teams) e.g. Japan, Mexico, Costa Rica, etc.
-- 26 Matches
+- 26 matches
 - every four years (next in 2105 Chile and 2019 in Brazil)
 - nb: special copa in 2016 in the United States (centenario de conmebol)
 
@@ -108,7 +93,7 @@ Copa América 2011 Argentina
 
 ### CONCACAF Gold Cup / Copa de Oro
 
-Official Site - [www.goldcup.org](http://www.goldcup.org) or [www.copaoro.org](http://www.copaoro.org)
+Official site - [www.goldcup.org](http://www.goldcup.org) or [www.copaoro.org (es)](http://www.copaoro.org)
 
 - 12 teams
     - North American zone   / 3 teams
