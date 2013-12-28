@@ -1,4 +1,4 @@
-# America (Copa América, Gold Cup / Copa de Oro)
+# North America, Central America & Caribbean (Gold Cup / Copa de Oro)
 
 ## What's `football.db`?
 
@@ -9,17 +9,13 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football data for national teams in South America
-and North America, Central America & Caribbean Islands. Events include:
+Free open public domain football data for national teams in North America, Central America & Caribbean Islands. Events include:
 
-- CONMEBOL¹ Copa América
-- CONCACAF² Gold Cup / Copa de Oro
+- CONCACAF¹ Gold Cup / Copa de Oro
 
 <!-- use handmade footnotes -->
 
-¹: CONMEBOL = South America;
-²: CONCACAF = North America, Central America & Caribbean
-
+¹: CONCACAF = North America, Central America & Caribbean
 
 
 Example:
@@ -27,30 +23,27 @@ Example:
 ~~~
 ### National Teams
 
-arg, Argentina,   ARG, ar
-bra, Brazil,      BRA, br
+mex, Mexico,        MEX, mx
+usa, United States, USA, us
 ...
 ~~~
 
 ~~~
 ##################################
-# Copa América 2011 Argentina
+# Gold Cup / Copa de Oro 2013
 
 # Groups
 
-Group A  |  Argentina   Colombia   Bolivia    Costa Rica
-Group B  |  Brazil      Paraguay   Venezuela  Ecuador
-Group C  |  Uruguay     Chile      Peru       Mexico
+Group A |  Panama         Mexico               Martinique    Canada
+Group B |  Honduras       Trinidad and Tobago  El Salvador   Haiti
+Group C |  United States  Costa Rica           Cuba          Belize
 
 # Group A
 
 Matchday 1 / Group A
 
-2011-07-01 21:45   Argentina  1-1  Bolivia    
-
-Matchday 2 / Group A
-
-2011-07-02 15:30  Colombia    1-0  Costa Rica    
+2013-07-07 17:30   Canada       0-1  Martinique
+2013-07-07 20:00   Mexico       1-2  Panama
 ...
 ~~~
 
