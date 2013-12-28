@@ -1,9 +1,0 @@
-
-####
-# non-american invitee teams
-#
-#  - fix: include world-cup/teams !!!
-#  remove this file!!!
-
-jpn, Japan,        JPN, jp
-

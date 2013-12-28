@@ -1,10 +1,6 @@
 ###################
 # all fixtures
 
-data:
-- america-cup!/setups/data/teams
-
-
 leagues:
 - amercia-cup!/leagues
 
