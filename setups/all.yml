@@ -2,25 +2,21 @@
 # all fixtures
 
 leagues:
-- amercia-cup!/leagues
+- north-amercia-gold-cup!/leagues
 
 #########
 # teams
 
 teams:
-- america-cup!/teams_s
-- america-cup!/teams_n
+- north-america-gold-cup!/teams
 
 
 ############
 # fixtures
 
 2011:
-- america-cup!/2011/copa
-- america-cup!/2011/gold
+- north-america-gold-cup!/2011/gold
 
 2013:
-- america-cup!/2013/gold
+- north-america-gold-cup!/2013/gold
 
-2015:
-- america-cup!/2015/copa

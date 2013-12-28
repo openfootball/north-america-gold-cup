@@ -1,6 +1,6 @@
 ###################################
-# National Teams (North America, Central America & Caribbean, South America)
+# National Teams (North America, Central America & Caribbean)
 
 teams:
-- america-cup!/teams_s
-- america-cup!/teams_n
+- north-america-gold-cup!/teams
+
