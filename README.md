@@ -9,7 +9,8 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football data for national teams in North America, Central America & Caribbean Islands. Events include:
+Free open public domain football data for national teams
+in North America, Central America & Caribbean Islands. Events include:
 
 - CONCACAF¹ Gold Cup / Copa de Oro
 
@@ -21,24 +22,13 @@ Free open public domain football data for national teams in North America, Centr
 Example:
 
 ~~~
-### National Teams
-
-mex, Mexico,        MEX, mx
-usa, United States, USA, us
-...
-~~~
-
-~~~
 ##################################
 # Gold Cup / Copa de Oro 2013
-
-# Groups
 
 Group A |  Panama         Mexico               Martinique    Canada
 Group B |  Honduras       Trinidad and Tobago  El Salvador   Haiti
 Group C |  United States  Costa Rica           Cuba          Belize
 
-# Group A
 
 Matchday 1 / Group A
 

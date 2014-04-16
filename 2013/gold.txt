@@ -2,95 +2,80 @@
 # Gold Cup / Copa de Oro 2013
 
 
-#############
-# Groups
+## NB: All times given are US Eastern Daylight Time (UTC−4)
+
 
 Group A |  Panama         Mexico               Martinique    Canada
 Group B |  Honduras       Trinidad and Tobago  El Salvador   Haiti
 Group C |  United States  Costa Rica           Cuba          Belize
 
 
-## NB: All times given are US Eastern Daylight Time (UTC−4)
-
-###########
-# Group A
-
-Matchday 1 / Group A
-
-2013-07-07 17:30   Canada       0-1  Martinique
-2013-07-07 20:00   Mexico       1-2  Panama
-
-
-Matchday 4 / Group A
-
-2013-07-11 20:30   Panama       1-0  Martinique
-2013-07-11 23:00   Mexico       2-0  Canada
+Matchday 1  |  Jul/7
+Matchday 2  |  Jul/8
+Matchday 3  |  Jul/9
+Matchday 4  |  Jul/11
+Matchday 5  |  Jul/12
+Matchday 6  |  Jul/13
+Matchday 7  |  Jul/14
+Matchday 8  |  Jul/15
+Matchday 9  |  Jul/16
 
 
-Matchday 7 / Group A
+Group A:
 
-2013-07-14 15:30   Panama       0-0  Canada
-2013-07-14 18:00   Martinique   1-3  Mexico
+Jul/7 17:30   Canada       0-1  Martinique
+Jul/7 20:00   Mexico       1-2  Panama
 
+Jul/11 20:30   Panama       1-0  Martinique
+Jul/11 23:00   Mexico       2-0  Canada
 
-###########
-# Group B
-
-Matchday 2 / Group B
-
-2013-07-08 19:00   El Salvador   2-2  Trinidad and Tobago
-2013-07-08 21:30   Haiti         0-2  Honduras
+Jul/14 15:30   Panama       0-0  Canada
+Jul/14 18:00   Martinique   1-3  Mexico
 
 
-Matchday 5 / Group B
+Group B:
 
-2013-07-12 19:00   Trinidad and Tobago  0-2  Haiti
-2013-07-12 21:30   Honduras             1-0   El Salvador
+Jul/8 19:00   El Salvador   2-2  Trinidad and Tobago
+Jul/8 21:30   Haiti         0-2  Honduras
 
-Matchday 8 / Group B
+Jul/12 19:00   Trinidad and Tobago  0-2  Haiti
+Jul/12 21:30   Honduras             1-0   El Salvador
 
-2013-07-15 19:00   El Salvador   1-0  Haiti
-2013-07-15 21:30   Honduras      0-2  Trinidad and Tobago
+Jul/15 19:00   El Salvador   1-0  Haiti
+Jul/15 21:30   Honduras      0-2  Trinidad and Tobago
 
 
-###########
-# Group C
+Group C:
 
-Matchday 3 / Group C
+Jul/9 20:30   Costa Rica     3-0  Cuba
+Jul/9 23:00   Belize         1-6  United States
 
-2013-07-09 20:30   Costa Rica     3-0  Cuba
-2013-07-09 23:00   Belize         1-6  United States
+Jul/13 15:30   United States  4-1  Cuba
+Jul/13 18:00   Costa Rica     1-0  Belize
 
-Matchday 6 / Group C
+Jul/16 17:30   Cuba           4-0  Belize
+Jul/16 20:00   United States  1-0  Costa Rica
 
-2013-07-13 15:30   United States  4-1  Cuba
-2013-07-13 18:00   Costa Rica     1-0  Belize
-
-Matchday 9 / Group C
-
-2013-07-16 17:30   Cuba           4-0  Belize
-2013-07-16 20:00   United States  1-0  Costa Rica
 
 
 #####################
 # Knock out phase
 
-
 (10) Quarterfinals
 
-2013-07-20 15:30   Panama         6-1  Cuba
-2013-07-20 18:30   Mexico         1-0  Trinidad and Tobago
-2013-07-21 16:00   United States  5-1  El Salvador
-2013-07-21 19:00   Honduras       1-0  Costa Rica
+Jul/20 15:30   Panama         6-1  Cuba
+Jul/20 18:30   Mexico         1-0  Trinidad and Tobago
+Jul/21 16:00   United States  5-1  El Salvador
+Jul/21 19:00   Honduras       1-0  Costa Rica
 
 
 (11) Semifinals
 
-2013-07-24 19:00  United States  3-1  Honduras
-2013-07-24 22:00  Panama         2-1  Mexico
+Jul/24 19:00  United States  3-1  Honduras
+Jul/24 22:00  Panama         2-1  Mexico
 
 
 (12) Final
 
-2013-07-28 16:00  United States  1-0  Panama
+Jul/28 16:00  United States  1-0  Panama
 
