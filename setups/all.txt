@@ -2,13 +2,9 @@
 # All Fixtures
 
 
-# Leagues
-north-amercia-gold-cup!/leagues
-
-
-# 2011
+# -- 2011
 north-america-gold-cup!/2011/gold
 
-# 2013
+# -- 2013
 north-america-gold-cup!/2013/gold
 
