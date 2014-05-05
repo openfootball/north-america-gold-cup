@@ -3,8 +3,8 @@
 
 
 # -- 2011
-north-america-gold-cup!/2011/gold
+north-america-gold-cup!/2011--united-states/gold
 
 # -- 2013
-north-america-gold-cup!/2013/gold
+north-america-gold-cup!/2013--united-states/gold
 
