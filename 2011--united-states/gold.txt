@@ -1,6 +1,27 @@
-###############################################
-# Gold Cup / Copa de Oro 2011 United States
+= Gold Cup 2011 
 
+#  or Copa de Oro [es] 
+#  in the United States, June 5–25, 2011
+#
+#  start_at: 2011-06-05
+
+#  12 teams 
+# North American zone (3 teams)
+# - United States
+# - Mexico
+# - Canada
+# Caribbean zone (5 teams)
+# - Jamaica
+# - Guadeloupe
+# - Cuba
+# - Grenada
+# Central American zone (4 teams)
+# - Honduras
+# - Costa Rica
+# - Panama
+# - El Salvador
+# - Guatemala
+ 
 
 Group A |  Mexico      Costa Rica      El Salvador    Cuba
 Group B |  Jamaica     Honduras        Guatemala      Grenada
@@ -19,7 +40,7 @@ Matchday 9  |  Jun/14
 
 
 
-Group A:
+Group A
 
 Jun/5 18:00   Costa Rica   5-0  Cuba
 Jun/5 20:00   Mexico       5-0  El Salvador
@@ -31,7 +52,7 @@ Jun/12 18:00   El Salvador  6-1  Cuba
 Jun/12 20:00   Mexico       4-1  Costa Rica
 
 
-Group B:
+Group B
 
 Jun/6 21:00   Jamaica    4-0  Grenada
 Jun/6 23:00   Honduras   0-0  Guatemala
@@ -43,7 +64,7 @@ Jun/13 19:00   Guatemala  4-0  Grenada
 Jun/13 21:00   Honduras   0-1  Jamaica
 
 
-Group C:
+Group C
 
 Jun/7 18:00   Panama         3-2  Guadeloupe
 Jun/7 20:00   United States  2-0  Canada
@@ -60,21 +81,20 @@ Jun/14 21:00   Guadeloupe     0-1  United States
 # Knock out phase
 
 
-(10) Quarterfinals
+Quarterfinals
 
-Jun/18 17:00   Costa Rica   1-1 1-1nV 2-4iE   Honduras
-Jun/18 20:00   Mexico       2-1               Guatemala
-Jun/19 15:00   Jamaica      0-2               United States
-Jun/19 18:00   Panama       1-1 1-1nV 5-3iE   El Salvador
-
-
-(11) Semifinals
-
-Jun/22 19:00  United States  1-0        Panama
-Jun/22 22:00  Honduras       0-0 0-2nV  Mexico
+Jun/18 17:00   Costa Rica  2-4 pen. 1-1 a.e.t. (1-1)   Honduras       
+Jun/18 20:00   Mexico      2-1                         Guatemala      
+Jun/19 15:00   Jamaica     0-2                         United States  
+Jun/19 18:00   Panama      5-3 pen. 1-1 a.e.t. (1-1)   El Salvador    
 
 
-(12) Final
+Semifinals
+
+Jun/22 19:00  United States  1-0               Panama   
+Jun/22 22:00  Honduras       0-2 a.e.t. (0-0)  Mexico   
+
+
+Final
 
 Jun/25 21:00  United States  2-4  Mexico
-
